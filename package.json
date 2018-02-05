@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A rapid bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HussBot/Rapid1509.git"
+  },
+  "author": "Husnainmb36",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HussBot/Rapid1509/issues"
+  },
+  "homepage": "https://github.com/HussBot/Rapid1509#readme"
+}
