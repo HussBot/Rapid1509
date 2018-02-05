@@ -294,5 +294,5 @@ client.on('message', (message) => {
         }
     }
 });
-client.login('NDA5NTM5MDE2MDE5NTQyMDE2.DVgFZA.5Zf9Iq6SnR_e39KdpaRCaNDtibA')
+client.login('Secret')
 
